@@ -1,0 +1,13 @@
+layers,quantity,transition_type,energy_eV,uncertainty_eV,source,source_type,conditions
+1,PL peak A,direct,1.90,,Mak 2010,text value,"suspended, room temperature, 532 nm laser"
+1,PL peak A (freestanding),direct,1.886,0.008,Scheuschner 2014,text value,"room temperature, 2.33 eV excitation"
+1,PL peak (supported on Si/SiO2),direct,1.82,,Scheuschner 2014,text value,"approximate; mostly trion emission"
+1,PL peak A (CVD),direct,1.86,,Li 2014,text value,"approximate; 532 nm laser"
+1,Optical gap (ellipsometry),direct,1.83,,Li 2014,text value,temperature not stated
+2,PL peak I,indirect,1.59,,Mak 2010,text value,"suspended, room temperature, 532 nm laser"
+3,PL peak I,indirect,1.463,0.02,Mak 2010,digitised from Fig. 3(c),"uncertainty is the author's own estimate"
+4,PL peak I,indirect,1.436,0.02,Mak 2010,digitised from Fig. 3(c),"uncertainty is the author's own estimate"
+5,PL peak I,indirect,1.418,0.02,Mak 2010,digitised from Fig. 3(c),"uncertainty is the author's own estimate"
+6,PL peak I,indirect,1.409,0.02,Mak 2010,digitised from Fig. 3(c),"uncertainty is the author's own estimate"
+bulk,Indirect gap,indirect,1.29,,Mak 2010,literature value quoted (not measured by Mak),
+bulk,Absorption threshold,indirect,1.42,,Li 2014,text value,ellipsometry on a bulk crystal
